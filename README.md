@@ -5,12 +5,12 @@ A simple chess toy for playing around with moves.
 # Implimented so far
 
 - Piece sprites
-- The board
 
 # TODO
  
 ## Next up
 
+- The board
 - Board initilization
 - Piece movement
 - Selection cursor
